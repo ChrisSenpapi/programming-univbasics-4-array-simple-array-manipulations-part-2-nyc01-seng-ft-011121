@@ -20,5 +20,5 @@ end
 
 def using_delete_at(array, integer)
   integer = 5
-  
+  deleted_array = 
   
