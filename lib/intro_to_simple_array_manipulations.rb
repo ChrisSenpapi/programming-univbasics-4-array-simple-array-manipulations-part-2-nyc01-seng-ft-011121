@@ -19,7 +19,6 @@ def using_delete(array, element)
 end
 
 def using_delete_at(array, integer)
-  integer = 5
   deleted_array = array.delete_at(integer)
 end
   
