@@ -11,4 +11,5 @@ def using_uniq(array)
 end
   
 def using_flatten(array)
-  flat_array = 
+  flat_array = array.flatten 
+end
